@@ -1,0 +1,84 @@
+.clear {
+    clear: both;
+}
+
+.container {
+    width: 1495px;
+    height: 800px;
+    margin: 0;
+
+}
+
+.photo {
+    float: left;
+}
+
+
+.maincontent {
+    float: right;
+}
+
+.title {
+    width: 786px;
+    height: 392px;
+    font-size: 143px;
+    line-height: 525px;
+    color: #242a35;
+    font-weight: 400;
+    font-family: "Fredoka One";
+    padding-top: -795px;
+    padding-right: 1450px;
+
+}
+
+.title1 {
+    width: 786px;
+    height: 392px;
+    font-size: 200px;
+    font-weight: 400;
+    font-family: "Fredoka One";
+    padding-top: -770px;
+    padding-right: 1450px;
+    color: blueviolet;
+
+}
+
+.subtitle {
+    width: 750px;
+    height: 150px;
+    font-size: 39px;
+    line-height: 65px;
+    color: #242a35;
+    font-weight: 400;
+    font-family: "Open Sans";
+}
+
+
+.button {
+    font-size: 45px;
+    letter-spacing: 1px;
+    line-height: 150px;
+    color: #ffffff;
+    font-weight: 900;
+    font-family: "Lato";
+    width: 400px;
+    height: 100x;
+    border-radius: 150px;
+    background-color: #e56b77;
+    margin-right: 25px;
+    cursor: pointer;
+    margin-top: 150px;
+    padding-left: 150px;
+}
+
+
+.k {
+    float: right;
+    margin-top: -400px;
+}
+
+.spocers {
+    line-height: 65px;
+    float: right;
+}
+
